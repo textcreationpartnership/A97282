@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The year of wonders: or, the glorious rising of the fifth monarch: shewing the greatness of the that free-born prince, who shall reign and govern; and what shall happen upon his coronation deduced from the eclipse of the sun, March 29. 1652. Together with the effects thereof; and a prophecie touching the change of this present government, in 1653; the manner thereof, the great wars that shall ensue, the time prefixed for their continuance, and afterwards an everlasting peace to be established; also, a description of the strange sights that will be seen in the air on Munday next; (at which time there will be a great darkness for the space of 3 hours) predicting, a woful calamity for London; and many prove headless for their rebelion: the murthering of the K. of France; and the great things that will befal the K. of Scots: the hanging of the great Turk in a Bow-string; and the stabbing of the Pope of Rome by an English-man. With many other remarkable predictions (never before published) touching the running of the streets with bloud, and burning whole cities, towns, and villages.</title>
+            <author>Yeamans, Isabel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97282</idno>
+            <idno type="STC">Wing Y22</idno>
+            <idno type="STC">Thomason E656_22</idno>
+            <idno type="STC">ESTC R206656</idno>
+            <idno type="EEBO-CITATION">99865772</idno>
+            <idno type="PROQUEST">99865772</idno>
+            <idno type="VID">118023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118023)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The year of wonders: or, the glorious rising of the fifth monarch: shewing the greatness of the that free-born prince, who shall reign and govern; and what shall happen upon his coronation deduced from the eclipse of the sun, March 29. 1652. Together with the effects thereof; and a prophecie touching the change of this present government, in 1653; the manner thereof, the great wars that shall ensue, the time prefixed for their continuance, and afterwards an everlasting peace to be established; also, a description of the strange sights that will be seen in the air on Munday next; (at which time there will be a great darkness for the space of 3 hours) predicting, a woful calamity for London; and many prove headless for their rebelion: the murthering of the K. of France; and the great things that will befal the K. of Scots: the hanging of the great Turk in a Bow-string; and the stabbing of the Pope of Rome by an English-man. With many other remarkable predictions (never before published) touching the running of the streets with bloud, and burning whole cities, towns, and villages.</title>
+                  <author>Yeamans, Isabel.</author>
+               </titleStmt>
+               <extent>16 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Geroge Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes 4 woodcut illustrations.</note>
+                  <note>Annotation on Thomason copy: "March 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Solar eclipses --  1652 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118023:1" rendition="simple:additions"/>
+            <p>THE YEAR of WONDERS: OR, The glorious Riſing of the fifth Monarch: Shewing the greatneſs of that free-born Prince, who ſhall Reign and govern; and what ſhall happen upon his Coronation</p>
+            <p>
+               <hi>Deduced from the</hi> Eclipſe <hi>of the</hi> Sun, <hi>March</hi> 29. 1652.</p>
+            <p>Together with the Effects thereof; And a <hi>Prophecie</hi> touch<g ref="char:EOLhyphen"/>ing the change of this preſent Government, in 1653; the manner thereof, the great wars that ſhall enſue, the time prefixed for their continuance, and afterwards an everlaſting peace to be eſtabliſh<g ref="char:EOLhyphen"/>ed; Alſo, a Deſcription of the ſtrange ſights that will be ſeen in the Air on <hi>Munday</hi> next; (at which time there will be a great darkneſs for the ſpace of 3 hours) predicting, a woful calamity for <hi>London;</hi> and many prove headleſs for their <hi>Rebellion:</hi> the mur<g ref="char:EOLhyphen"/>thering of the K. of <hi>France;</hi> and the great things that will befal the K. of <hi>Scots:</hi> the hanging of the great Turk in a Bow-ſtring; and the ſtabbing of the Pope of <hi>Rome</hi> by an <hi>Engliſh-man.</hi> With many other remarkable Predictions (never before publiſhed) touching the running of the ſtreets with bloud, and burning whole Cities, Towns, and Villages.</p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prognostication">
+            <pb facs="tcp:118023:2"/>
+            <pb n="3" facs="tcp:118023:2"/>
+            <head>THE GOLDENAGE: OR, The glorious Riſing of the fifth Monarch: Shewing the Greatneſs of that Prince, who ſhall reign and govern; and what ſhall antecede and happen upon His Coronation.</head>
+            <head type="sub">Deduced from the direful Effects of the great Eclipſe of the Sun, <hi>March 29. 1652.</hi>
+            </head>
+            <p>AS the Stars of Heaven, are the moſt excellent Characters of the Divinity, Power, Wiſdom, &amp; Glory of their Creator, in that they are writen and ingraven by the finger of God himſelf (the Father of Lights;) ſo amongſt the <hi>Coelestiall phainòmena</hi> the <hi>Doctrine</hi> of <hi>Eclipſes</hi> takes precedency, becauſe that from their <hi>Obſervations,</hi> the primary <hi>foundations</hi> of the whole body of <hi>Aſtronomy</hi> are <hi>confirm'd, evinc'd,</hi> and <hi>demon<g ref="char:EOLhyphen"/>ſtrated.</hi> For, ſeeing that the Sun is eclipſed, we conclude the cauſe thereof to be the interpoſition of the <hi>Moon</hi> betwixt
+<pb n="4" facs="tcp:118023:3"/>him and the <hi>Farth,</hi> and the cauſe of the <hi>Moons Eclipſe,</hi> the
+in<g ref="char:EOLhyphen"/>terpoſition of the <hi>Earth</hi> betwixt her Body and the Suns. This Eclipſe wil pul down the pride of Magiſtrates, who are grown to ſuch a terrible hight, that 'tis their glory to inſult and act wickedly. <hi>Mars</hi> is chief Lord thereof; and you ſhal ſee what a kind of creature he is: He is a hot and dry, firy-burning <hi>Planet;</hi> an angry conquering creature, de<g ref="char:EOLhyphen"/>ſtructive to nature: He is ſo angry, that he will hear no rea<g ref="char:EOLhyphen"/>ſon: the <hi>Prieſt</hi> with his Rhetorick in the <hi>Pulpit</hi> cannot move him; neither doth he regard the Lawyer that pleads at the Bar: all the Sophiſtry in <hi>Oxford</hi> and <hi>Cambridge</hi> will not be able to qualifie his anger in the effects of this Eclipſe, but are all like to feel his fury: He layes out all his ſtrength in what he doth, or in what he delighteth to do: his natural diſpoſition is to ſet people together by the ears: I may ſay of him, as <hi>Virgil</hi> ſaid of <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecto,</hi>
+            </p>
+            <q>
+               <l>The deareſt knots of friendſhip he unties,</l>
+               <l>And utterly ſubverts whole Families</l>
+               <l>With diſmal funerals, and bitter wrath:</l>
+               <l>A thouſand names, a thouſand arts he hath</l>
+               <l>To break ſweet peace: by his impetuous charms,</l>
+               <l>The Youth deſire, and crave, and handle arms.</l>
+            </q>
+            <p>The whole Nation of <hi>Europe</hi> is in a mutiny; <hi>and they have as much patience as a nest of Waſps.</hi> The Merchants Trading is bad; he ſcarce knows into what Countrey to trade; and when he doth, he loſeth his ſhips by Sea. The world is mad, and ſervants turn maſters: and what will the end be? Kings and great men are undone: the Lawyer leaveth prating, &amp; fals to freting. Learned <hi>Guido</hi> ſaith, <hi>That al the evil that is done (and that is not a little) wil be done under, pretence of Religi<g ref="char:EOLhyphen"/>on:</hi> which how true it hath proved already in <hi>England,</hi> e<g ref="char:EOLhyphen"/>very one that hath but wit enough to eat an egge know<g ref="char:EOLhyphen"/>eth. The Sea devoureth a great part of <hi>Holland, Zealand,</hi> and <hi>Flanders.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:118023:3"/>
+Dreadful ſtreamings are ſeen in the air, ſtrange Satrre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, new Comets wil probably be viſible about 10 of the clock, muck like unto the enſuing Figure;</p>
+            <figure/>
+            <p>Which ſignifies (as <hi>Campanella</hi> ſaith) Hot infirmities, acute diſeaſes, wars and diſſentions between Kings and their peo<g ref="char:EOLhyphen"/>ple, and between one King and another, let them remember what <hi>Aeſop</hi> ſaid of the Mouſe and the Frog; who whileſt they were buſie in fight, came a Kyte and caryed them both away. Look to it, Princes of <hi>Europe:</hi> there will appear upon the Wing, within theſe 4 years, a Kyte that will ſerve you the ſame ſauce. Beaſts of great valour, and various in co<g ref="char:EOLhyphen"/>lour, will appear in the Air: The beginning of the year will be very fruitful; but heat and dryneſs conſume the fruits of the Earth before the Harveſt. As for the Quartile of <hi>Jupiter</hi> and <hi>Mars,</hi> which happens in <hi>Feb.</hi> 1653. I ſhal ſpeak nothing, but refer you to the enſuing Verſes upon that month; and they are theſe:</p>
+            <q>
+               <l>
+                  <hi>Mars</hi> layes his knap-ſack by, and ſtoutly draws,</l>
+               <l>His truſty <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilbow to preſcribe us Lawes,</l>
+               <l>
+                  <hi>Jove</hi> claims his priviledge, and <hi>Mars</hi> his power;</l>
+               <l>Both wran le hard, and each on other lour.</l>
+               <l>At length <hi>Jove</hi> yields, and <hi>Mars</hi> aſſumes the chair;</l>
+               <l>Votes his own perſon noble, doings fair.</l>
+            </q>
+            <p>
+               <pb n="6" facs="tcp:118023:4"/>
+Learned <hi>Guifus</hi> ſaith, That the Eclipſe of the Sun threat<g ref="char:EOLhyphen"/>ens deſtruction to the fruits of the Earth, kills the fruit in the bud, kills ſheep and other cattel; great <hi>Kings, Princes,</hi> &amp; <hi>Magiſtrates,</hi> are either baniſh'd, impriſon'd, or put to death. Princes and their Subjects agree like Cats and Dogs, firſt they ſnarl, and then bite; great Armies, terrible Wars, ſlaughters of men, burning of Towns, Theft, Rapins, De<g ref="char:EOLhyphen"/>populations, Fire, and the Sword raigns <hi>Lord paramount</hi> in the Nations threatned by this Eclips: Neither ſhall the Women want their ſhare; <hi>for ſuch of them as are with child ſhall be too ſubject to miſcary;</hi> both men and women are ſub<g ref="char:EOLhyphen"/>ject to acute Feavers, or other Epidemical diſeaſes; the air is hot, blaſting, and burning; dearth of Corn is threatned; Change of Government, both in Principalities and Com<g ref="char:EOLhyphen"/>mon-wealths: let Experience be Judge; <hi>Time will tell truth, when I may not:</hi> If the new River-water had been brought from <hi>Ware</hi> to <hi>London</hi> in lead, it had come clear; but being brought in earth, it is muddy. <hi>But I must not find you a tale &amp; ears too; therefore I will leave this Nation to pick Engliſh out of it.</hi> This Eclips alſo threatens to make Kings and Magiſtrates Goal-birds, terribly afflicting them; &amp; ſome of them whom God pleaſes loſe their heads <hi>(more is the pity)</hi> and then they feel the lighter; others are hang'd, and they cannot feel at all: 'tis as wretched a time for Kings as ever the Sun ſaw. The Soldiers will be in arms againſt their Governors, <hi>right or wrong;</hi> for a Sword and a Gun are two prevailing argu<g ref="char:EOLhyphen"/>ments. All the miſeries the ſword can bring upon a people, <hi>and they are not a few,</hi> will have influence upon this Eclips; and the goods of rich men, who have tired their unlucky &amp; Common-wealth deſtroying braines, will be extorted by violence. The bodies of men are troubled with Choller: Towns and Cities are conſumed by fire, and ruined by the ſouldiery; Murther and Thee very are as familiar, as <hi>Butter<g ref="char:EOLhyphen"/>flies</hi> in <hi>April:</hi> The ſouldiers ſword will prove ſharper then the ſcholers wit.</p>
+            <p>
+               <pb n="7" facs="tcp:118023:4"/>
+So great and direful are the effects of this Eclipſe, that it far exceeds that in <hi>Anno</hi> 1540, where the Sun was almoſt totally darken'd; as may appear by the enſuing Type, or Figures;</p>
+            <figure/>
+            <p>This Eclipſe happen'd in <hi>Aries;</hi> as that of the 29 inſtant, and immediatly followed a parching hot and dry ſummer, inſomuch that deep Rivers were fordable, and great ones dry'd up: the very heat of the Sun ſet fire to Woods; bur<g ref="char:EOLhyphen"/>ned the King of <hi>Echemias</hi> Palace, and fired a great part of <hi>Germany.</hi>
+            </p>
+            <p>Yet notwithſtanding, this was not ſo great and formida<g ref="char:EOLhyphen"/>ble, as that on the 29 will be; the ſight whereof will terri<g ref="char:EOLhyphen"/>fie all mortall eyes, and indeed it will prove the greateſt that we had this many centuries of years; nay, ever ſince the Son of Righteouſneſs ſuffer'd on the Croſs, when there was darkneſs over the face of the whole Earth. And the truth is, a general peſtilence is threatned to <hi>Europe,</hi> of which <hi>England</hi> is like ſadly to participate; neither ſhall <hi>Holland</hi> want its ſhare. The places ſubject to the effects of this Eclipſe, are <hi>England, France, Germany, Swedeland, Poland, Den<g ref="char:EOLhyphen"/>mark, Sileſia, Syria, the holy Land, Palestina, Ruſſia, Ireland, Hol<g ref="char:EOLhyphen"/>land, Zealand, Loram, Franconia,</hi> &amp;c.</p>
+            <p>
+               <pb n="8" facs="tcp:118023:5"/>
+Of Towns and Cities, <hi>York, Hull, Naples, Ancenia, Florence,</hi> and moſt of the ſea-Towns in <hi>Aſia</hi> the leſs, <hi>Oxford, Caunt, Venice;</hi> together with many others; and indeed the effects will be generally felt over all <hi>Europe</hi> in one meaſure or o<g ref="char:EOLhyphen"/>ther; ſo that I may ſay of <hi>Europe</hi> concerning the effects of this Eclipſe, as Mr. <hi>Thomas May</hi> Eſquire, once did of <hi>Mauri<g ref="char:EOLhyphen"/>tania,</hi> a little before the battel at <hi>Thapſus,</hi> onely a little al<g ref="char:EOLhyphen"/>tering the words,</p>
+            <q>
+               <l>All Monarchy it quite will overthrow,</l>
+               <l>More wrack alas its ſad effects will do,</l>
+               <l>Then after-ages can repair with ſpeed;</l>
+               <l>And Beasts poſſeſs the ſeats of Nations dead,</l>
+               <l>Where feared Monarks once gave laws to men</l>
+               <l>Shall Lyons raign, and Tygers make their Den.</l>
+               <l>The ſlimy Serpent all alone ſhal crawl,</l>
+               <l>And wanting men, ſhall be no plague at all.</l>
+            </q>
+            <p>
+               <hi>Solar Eclipſes</hi> have been ever fatal to Kings &amp; Magiſtrates, they cannot agree, but onely in one thing, and that is op<g ref="char:EOLhyphen"/>preſſing the people: O pure! they are old dogs at that, and the poor groan under it. <hi>Ariſe ô God and help them!</hi> Law<g ref="char:EOLhyphen"/>yers and Clergy-men are diſplaced and impriſoned, &amp; ſome made ſhorter by the head. A new ſect of Hereticks ariſe, which makes me admire how worſe can be invented then are already. Private murthers and poyfonings are like to be very rife: look to't ye great ones in authority, have a care of your ſelvs, leſt ſome of you be ſent to take a ſupper <hi>apud inferos,</hi> before you are aware of it; 'Tis a ſcurvy faſhion, I do not like it.</p>
+            <div type="effects">
+               <pb n="9" facs="tcp:118023:5"/>
+               <head>What the effects of this <hi>Eclipſe</hi> are like to produce to every particular Nation in <hi>Europe.</hi>
+               </head>
+               <p n="1">1 IT being taken for granted, that the effects begin to o<g ref="char:EOLhyphen"/>perate <hi>jul.</hi> 1652, and decline in the year 1655, you may by this know the time of the ſufferings of <hi>Europe;</hi> an Epi<g ref="char:EOLhyphen"/>demical diſeaſe, called madneſs, poſſeſſes the brains of the Princes thereof; the 5. Monarchy of the World is coming, and the effects of this Eclipſe make way for him: but he is no <hi>Scotch-man,</hi> no nor <hi>Engliſh,</hi> 'tis he before whoſe coming, <hi>The Heathen ſhall rage, and the people imagine a vain thing; the Kings of the earth ſhall ſet themſelves together againſt him, &amp;c.</hi> His Riſe will be great, his Coronation glorious, and he ſhall rule all Nations in the world. Read the ſecond Pſalm tho<g ref="char:EOLhyphen"/>row out, and you ſhall ſee both what ſhall antecede his Co<g ref="char:EOLhyphen"/>ronation, and what ſhall follow it. This is the Monarchy that I expect; yet I expect it not in the effect of this E<g ref="char:EOLhyphen"/>clipſe, for this ſhall onely make way for the fifth Monar<g ref="char:EOLhyphen"/>chy; and when you ſee all Europe together by the ears, when you ſee Kings mad, and their ſubjects ſtubborn, then think of theſe things, and know that he that ſhall come, wil come, and will not tarry.</p>
+               <p n="2">2 The Germanes are as bad together by the ears as they were in the days of that conquering Queen of <hi>Sweden. Bohe<g ref="char:EOLhyphen"/>mia</hi> ſuffers extreamly; the truth of it is, I doubt the poor Emperor will be totally routed.</p>
+               <p n="3">3 As for <hi>England,</hi> I cannot ſing a <hi>quictus eſt</hi> to them as yet, within a few years I ſhall; Thou haſt but one ſtorm to en<g ref="char:EOLhyphen"/>dure, bear that with patience, I hope thy Wars aae almoſt at an end. Thou wilt in the year 1653. be moleſted with a conſuming peſtilence, and troubles, with a change of Go<g ref="char:EOLhyphen"/>vernment at one and the ſame time; In making thy choice of thy next Repreſentative, take counſel of God; For aſ<g ref="char:EOLhyphen"/>ſure
+<pb n="10" facs="tcp:118023:6"/>thy ſelf of this, thou ſhalt find my words true, as when the Sun is upon the Meridian, thou ſhalt never be free from plagues, either of War, Peſtilence, or Famine, till thou doſt ſubmit to ſuch a Government as God intends for thee; the cryes of the poor, <hi>whom thou dost tyranically defraud of their birthrights,</hi> are heard in the ears of our Lord God Almighty. Be pleaſed to read every morning the 26 <hi>Chap.</hi> of <hi>Levit.</hi> 'Tis worth your obſervation. Our preſent Governors (who have tranſmografide Monarchy into a Free State) muſt not eſteem themſelves exempted (more then other States) from the effects thereof. For ſoon after this eclipſe great men ſhall ſuffer infamous deaths, and we ſhall generally find men mad to undo themſelves; the Prince of planets, the Eye of the World, and the Glory of the Heavens, is e<g ref="char:EOLhyphen"/>clipſed juſt upon his Throne, the ſight whereof will terri<g ref="char:EOLhyphen"/>fie all mortal Eyes, for we ſhall ſee the Stars ſhine as in a Winters night, and ſtrange and wonderful ſights and ap<g ref="char:EOLhyphen"/>paritions (ſuch as our fore-fathers never beheld) will be ſeen in the Air, to the aſtoniſhment of all mankind. Many <hi>Aſtrologers</hi> calculate that the effiects of this dreadful eclipſe will have a great influence upon the K. of <hi>Spain;</hi> and the K. of <hi>Scots</hi> (the firſt, great and potent: the ſecond, poor and deſpiſed) and threatens them with ſudden deaths; <hi>From which, good Lord deliver us all.</hi>
+               </p>
+               <p n="4">4 The Jeſuits ſet all Europe together by the ears, let <hi>Pa<g ref="char:EOLhyphen"/>dua</hi> in <hi>Italy</hi> beware of <hi>Aug.</hi> 1653. leſt either the ſword, earth quake, or peſtilence, deſtroy it. <hi>Ah poor <g ref="char:V">Ʋ</g>niverſity! I mourn for thee, ſo much good haſt thou done to the world in general. Bom<g ref="char:EOLhyphen"/>bardy is quite and clean deſtroyed,</hi> and beaſts poſſeſs the ſeats of dead people. The Pope hath got the impudence to out<g ref="char:EOLhyphen"/>face Heaven, to ſee if his buls can outroar the thunder.</p>
+               <p n="5">5 The Turks fall into a part of <hi>Italy,</hi> which maketh his Holineſs to tremble; but he knoweth how to leave St. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> keys, and take St. <hi>Pauls</hi> ſword in hand: the truth is, his
+<pb n="11" facs="tcp:118023:6"/>fear is more then his harm: its not the Turk ſhall pull down the Pope, and yet he muſt fall: Neer unto which time, another dreadful eclipſe of the Sun wil be ſeen, whoſe Conjunction will be in <hi>Mars:</hi> The ſight whereof will be very terrible to behold, and not much differing from that of the 29 of <hi>March;</hi> as is evident by the enſuing Figure.</p>
+               <figure/>
+               <p n="6">6 The effects of this eclipſe <hi>Mar.</hi> 29. ſhall ſhew them<g ref="char:EOLhyphen"/>ſelves firſt of all in their colours in <hi>France:</hi> ſtrange maſſacres deſperate Tumults, fire and ſword moleſts that Kingdom; 'tis his own fault, he carryeth himſelf as like a Tyrant over his ſubjects, as a Pome-water is like an apple: if about the later end of this year 1652, that poor King is not either knock'd on the head, or forced to leave his Kingdom, ſay I am ſo ignorant, that I know not a Star from a Hop-pole; let him beware of his Jeſuits, eſpecially the Colledge of <hi>Sorborn</hi> for fear they have learned a <hi>Scotch-trick,</hi> to ſell him to his adverſaries for money.</p>
+               <p n="7">7 Let not that noble and valiant ſoul the Prince of <hi>Conde</hi> aſpire to that kingdom: God hath a determination to blaſt aſpiring brains. If ever that valiant and wiſe Prince come
+<pb n="12" facs="tcp:118023:7"/>to raign, it ſhall be, <hi>aut nequicquam, aut nequaquàm,</hi> either not at all, or in vain: Ours was the firſt Monarchy that was brought to an end, and <hi>France ſhall be the next;</hi> the Heavens have decreed it, and its in vain for man to kick againſt the pricks. Two years ſhall not paſs over thy head, <hi>ô France,</hi> but <hi>thy Monarch ſhall come to its fatal and final cataſtrophe,</hi> &amp; leave thy ruined Nation in ſuch a pickle, that thy pleaſant and fruitful Land ſhal be reduced to ſuch a barrenneſs, for the wickedneſs of thoſe that dwell therein, <hi>that this preſent Age ſhall not live to ſee it recruited.</hi>
+               </p>
+               <p n="8">8 Thou famous City of <hi>Venice</hi> look ta thy ſelf, I fear be<g ref="char:EOLhyphen"/>fore the year be clapſed, the Turk will have poſſeſſion of thee: it would grieve a mans heart to ſee the ſtreets run down with bloud; I wiſh I may be found a falſe Prophet in this; yet whether I be or not, it would do thee no harm to make thy peace with God.</p>
+               <p n="9">9 Its almoſt a wonder I have forgot the <hi>Hollander</hi> all this while, who ſhall neither be the laſt nor the leaſt ſufferer in this Eclipſe, a body would have thought that Nation had been wiſe, had they not committed themſelves to the pro<g ref="char:EOLhyphen"/>tection of the King of <hi>France;</hi> but when <hi>France</hi> ſhall be to<g ref="char:EOLhyphen"/>gether by the ears, and more bloud ſpilt there then Wine preſt, then may the <hi>Dutch-men</hi> ſay, as the Emperor once did, when he truſted to the Pope for ſome great courteſie, <hi>which he thought would make him and his heirs for ever,</hi> the <hi>Pope</hi> playes the man and dyeth (not becauſe he was weary of this wick<g ref="char:EOLhyphen"/>ed World, and made haſt to be in another, for he always lo<g ref="char:EOLhyphen"/>ved this World with all his heart, elſe he had never built a Tabernacle in it) the Emperor hearing of the Popes death, now ſaith he, <hi>My cake is dough, I never thought of the Popes dy<g ref="char:EOLhyphen"/>ing before.</hi> And juſt in ſuch a pickle will <hi>Holland</hi> be, when her protecting King is fled for his life: Her neceſſities will be very great; none will ſuccour, nor many pity her: by reaſon of her neer allyance to the falſe <hi>Scot.</hi>
+               </p>
+               <p n="10">
+                  <pb n="13" facs="tcp:118023:7"/>
+10 The <hi>Monaſteries</hi> of <hi>Germany</hi> are like to be made no <hi>Monaſteries</hi> during the effects of this Eclipſe. Truly, by that time the year 1654 be elapſed, popery will breath its laſt in <hi>Germany.</hi> God in Heaven grant they ſet up the Truth in its ſtead; that, like other Nations, they do not (with <hi>Aeſops</hi> fiſh) leap out of the frying-pan into the fire.</p>
+               <p n="11">11 During the effects of this Eclipſe in <hi>England,</hi> either at, or before the beginning of the year 1655, (the wiſer my brethren of the Communalty carry themſelves, for ought I know or believe, the ſooner it may be effected) the Go<g ref="char:EOLhyphen"/>vernment wil come into the hands of the people, and ever<g ref="char:EOLhyphen"/>laſting peace ſhall we enjoy, and never more War afflict us. And if we may truſt to a piece of <hi>Art Caball ſtick</hi>) in <hi>Auguſt</hi> 1655, <hi>Rome</hi> falleth, and <hi>Jeſus Christ</hi> the <hi>Prince of Peace</hi> may reign amongſt Us.</p>
+               <p>Many people aſpire high, and look upon the <hi>Scotch-King</hi> to invade <hi>England</hi> once more, as one of the Kings of <hi>Denmark</hi> did, after 8 years baniſhment; but Learned Mr. <hi>Lillie</hi> hath prophecied, <hi>That he ſhall never more ſet footing on Engliſh ground; that he ſhall</hi> (poor Gentleman) <hi>be expoſed to great wants; and that he ſhall receive a ſtab (or a cup of poyſon, inſtead of a brown-bowl of ſpiced Ale) in</hi> 1653.</p>
+               <p n="12">12 <hi>London,</hi> beware of a peſtilence 1653; get able Phy<g ref="char:EOLhyphen"/>ſicians: And though many men tell thee of thy final <hi>Cata<g ref="char:EOLhyphen"/>ſtrophe,</hi> and fright thee with Mother <hi>Shiptons Propheſie,</hi> which, if it come to paſs upon thee at all, it will be in the year, 1668. Labour thou to be one of the Elect of God, and hold up but thy head till the later end of the year 1665, and I am confident, both thy danger and deſtruction is paſt. I could tell the ſad things that ſhall afflict thee in the year 1653. But when <hi>Phaeton</hi> foretold of a great fire that ſhould burn up the greateſt part of <hi>Italy,</hi> they got the honeſt ſoul, and accuſed him for ſetting the World on fire, and drown<g ref="char:EOLhyphen"/>ed him in the River <hi>Po.</hi>
+               </p>
+               <p>
+                  <pb n="14" facs="tcp:118023:8"/>
+And haply ſhould I tell <hi>London</hi> the truth, I might be in<g ref="char:EOLhyphen"/>humanely dealt withall my ſelf; for this is an age in which
+<q>Obſequ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um amicos, veritas odium parit.</q>
+               </p>
+               <lg>
+                  <l>'Tis flattery that gets men friends:</l>
+                  <l>Tell but the truth, all friendſhip ends.</l>
+               </lg>
+               <p n="13">13 The reſt of the Princes of <hi>Europe</hi> muſt fall as ſure as a club: and next to <hi>France, Poland</hi> is like to go to pot: <hi>Den<g ref="char:EOLhyphen"/>mark</hi> and <hi>Sweden</hi> happily next; and happily <hi>Sweden</hi> may come to ruine before <hi>Denmark</hi> eſpecially if the Queen light of ſuch a Huſband as probably ſhe may: Let the child of that valiant Father beware of an unfortunate Match about the beginning of 1653. if not, the ruine of that Kingdom may happen about the beginning 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>54.</p>
+               <p n="14">14 The <hi>Floren<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nes</hi> are as full of Tumults as a Wood is full of Trees: The <hi>Coſſaecks</hi> fall into <hi>Chriſtendom</hi> with fire &amp; ſword, and I doubt upon the Territories of <hi>Italy.</hi>
+               </p>
+               <p n="15">15 The King of <hi>Spain</hi> is quite and clean routed out of the <hi>West-Indies;</hi> as he hath formerly there made ſlaves of other people, (nay, he would have ſerved the <hi>Bab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons</hi> ſo too, could they have but ſpoken) ſo in 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>54. the Natives of the place ſhall be rid of this, and find another, and yet ſcarce a better.</p>
+               <p n="16">16 The Nations of <hi>Europe</hi> flutter to ſave their Kings, which never did them good, nor never will; even like a Bird brought up in a Cage, that regardeth not liberty, be<g ref="char:EOLhyphen"/>cauſe it never knew what it was. I remember a pretty ſto<g ref="char:EOLhyphen"/>ry in <hi>Aeſops, Fables,</hi> which I care not greatly if I recite; The Frogs deſired a King of <hi>Jupiter,</hi> neither would they be plea<g ref="char:EOLhyphen"/>ſed unleſs they had one: <hi>Jupiter</hi> (to ſatisfie them) threw down a great beam into the water, which after it had aſto<g ref="char:EOLhyphen"/>niſh'd them a while, they began to grow bold with it, and leapt upon it, yea and deſpiſed it too, bee uſe it was pati<g ref="char:EOLhyphen"/>ent: They fall a croaking to <hi>Jupiter</hi> again; and they muſt have a ſtout King that could fight, I marry muſt they; <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi>
+                  <pb n="15" facs="tcp:118023:8"/>to ſatisfie their importunity, ſends them the <hi>Stork,</hi> who ſtalking about the Pool, as the Frogs came to do obey fance to him, he eat them up. I leave every rational man to make the moral of it, 'tis plain enough.</p>
+               <p n="17">17 An Earthquake is like much to annoy <hi>Italy,</hi> the peo<g ref="char:EOLhyphen"/>ples madneſs, and the Jeſuits knavery much more. <hi>Italy! Italy!</hi> that ancient Nation where the Poets ſay <hi>Saturn</hi> once ruled when he turned <hi>Leveller</hi> and brought up the Golden Age, I am ſory for thy ſufferings, but cannot help them.</p>
+               <p n="18">18 In the year 1653, about the 3. of <hi>April,</hi> the Sun will again be eclipſed, but not totally darken'd, as appears by the enſuing Figure,</p>
+               <figure/>
+               <p>The effects of this eclipſe will be a change of Govern<g ref="char:EOLhyphen"/>ment in <hi>England:</hi> many prove headleſs for betraying their Truſt; <hi>a just Reward for Rebellion.</hi> About the end of this Eclipſe will appear a blazing Star and Comet, the which promiſeth the downfal of Tyrants both in Kingdomes and Common-Wealths.</p>
+               <p n="19">19 A fire threatens <hi>Conſtantinople,</hi> ſo doth Diſſention, and ſomething worſe then either; the great Turk is either ſlain, or runs away for his life, if a bow-ſtring ſtops not his journey: you would laugh to ſee the <hi>Tartarian</hi> invade <hi>Tur<g ref="char:EOLhyphen"/>key</hi> much about the year 1654. I promiſe him if he do, he
+<pb n="16" facs="tcp:118023:9"/>will go neer to carry it. I would to God he wold learn to be ſo wiſe as the noble <hi>Tamerlane,</hi> who is never to be mentioned without an Epethite of Honour.</p>
+               <p n="20">20 In the year 1654, <hi>England</hi> begins to grow quiet; that's good news: ſhe enjoys her deſired Liberty, which ſhe hath ſpent ſo much bloud for: the time is now coming, that the Commoner ſhall be a Freeman, and no longer remain in bondage either to Kings or Parliaments. The Souldier is caſting off the burden from them; and they promiſe him a noble Gratuity; but I wiſh there may be a reall perform<g ref="char:EOLhyphen"/>ance, and no more delays: And as a caution by the way, I ſhall here incite a couple of Verſes, made by an Officer of the Army.</p>
+               <lg>
+                  <l>Our God and Souldiers we alike adore,</l>
+                  <l>Even in the brink of danger, not before.</l>
+                  <l>After deliv'rance they are alike requited,</l>
+                  <l>Our God's forgotten, and our Souldiers ſlighted.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
